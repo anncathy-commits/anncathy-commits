@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Catherine Anne Wairimu
 
-<!--
-**anncathy-commits/anncathy-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Programming at IYF Wecan Academy
+- I'm interested in CSS,HTML and Javascript
+- I'm looking to collaborate on VS Code and Github utilising projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Front end
+- Back end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [My Profile](https://github.com/anncathy-commits/anncathy-commits.github.io) — one of my first coding experiences
+
+## How to Reach Me
+- Email: anncathywairimu947@gmail.com
+- LinkedIn: https://www.linkedin.com/in/catherine-anne-wairimu-waweru-49562472/
